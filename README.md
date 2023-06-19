@@ -1,11 +1,11 @@
-About r-gghoriplot
-==================
+About r-gghoriplot-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gghoriplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rivasiker.github.io/ggHoriPlot/, https://github.com/rivasiker/ggHoriPlot
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gghoriplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: A user-friendly, highly customizable R package for building horizon plots in the 'ggplot2' environment.
 
